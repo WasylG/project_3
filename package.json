@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WasylG/project_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WasylG/project_3/issues"
+  },
+  "homepage": "https://github.com/WasylG/project_3#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "git": "^0.1.5",
+    "save": "^2.4.0"
+  }
+}
